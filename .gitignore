@@ -1,0 +1,12 @@
+# Environment & Credentials
+.env
+
+# Editor & OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Temporary Database files
+*.db-wal
+*.db-shm
